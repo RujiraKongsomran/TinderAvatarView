@@ -4,7 +4,7 @@ public class Item {
     private int index;
     private String imgLink;
 
-    public Item(int index, String imgLink) {
+    public Item(String imgLink, int index) {
         this.index = index;
         this.imgLink = imgLink;
     }
