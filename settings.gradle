@@ -1,0 +1,2 @@
+rootProject.name='TinderAvatarView'
+include ':app'
